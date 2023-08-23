@@ -8,6 +8,7 @@ for(let i=0;i<=x;i++){
      }
 }
 if(count==2){
+
 	return('true')
 }else{
 	return('false')
