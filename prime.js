@@ -8,9 +8,9 @@ for(let i=0;i<=x;i++){
      }
 }
 if(count==2){
-	console.log('false')
-}else{
 	console.log('true')
+}else{
+	console.log('false')
 }
 
 }
